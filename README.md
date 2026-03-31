@@ -1,6 +1,6 @@
 # ConVibNet: Needle Detection during Continuous Insertion via Frequency-Inspired Features
 
-![pipeline](figures/fig-overview.png)
+![pipeline](fig-overview.png)
 
 # Abstract
 
